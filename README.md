@@ -53,6 +53,7 @@ Download ChromeDriver and place it in the project directory or a directory in yo
 - Customization: Modify the script to fit other websites or different product preferences.
 
 **Contributing**
-Contributions are welcome! Feel free to fork the repository, make improvements, and submit a Pull Request.
+
+- Contributions are welcome! Feel free to fork the repository, make improvements, and submit a Pull Request.
 
 
