@@ -20,12 +20,39 @@ This project is a Python-based automation script designed to streamline online s
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/discount-shopping-automation.git
+   git clone https://github.com/ahmetger0934/discount-shopping-automation.git
    cd discount-shopping-automation
    
 2. **Install required packages:**
    pip install -r requirements.txt
 
 3.**Download ChromeDriver:**
-Download ChromeDriver from here and place it in the project directory or a directory in your system's PATH.
+Download ChromeDriver and place it in the project directory or a directory in your system's PATH.
+
+**Usage**
+
+1.**Run the script:**
+
+-Before running, ensure you have configured the necessary parameters (e.g., your email and password) in the script.
+-Execute the script with the following command:
+
+ python discount-shopping-automation.py
+
+2.**Automation Process:**
+
+- The script will automatically:
+- Navigate to the e-commerce site.
+- Identify and select the most popular and the most expensive products.
+- Choose the preferred sizes.
+- Add the products to the shopping cart.
+- Proceed to the checkout page.
+- Log in using the provided credentials and complete the purchase.
+
+**Notes**
+- Responsibility: This script is intended for educational purposes and should be used responsibly. Ensure you have permission to automate interactions with any website.
+- Customization: Modify the script to fit other websites or different product preferences.
+
+**Contributing**
+Contributions are welcome! Feel free to fork the repository, make improvements, and submit a Pull Request.
+
 
